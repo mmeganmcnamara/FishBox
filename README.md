@@ -1,5 +1,5 @@
 # Simmon's University SharkHack 2024 Hackathon Project
-Created in Figma with Julie Lau and Emma Shum
+Created in Figma by Megan McNamara, Julie Lau, and Emma Shum
 
 # Recommended next steps:
 Note: Make sure you have installed native code dependencies [here](https://reactnative.dev/docs/environment-setup#installing-dependencies)
